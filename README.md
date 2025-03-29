@@ -1,5 +1,4 @@
 # Hybrid-Deep-Convolutional-Generative-Adversarial-Networks
-📄 Thesis Source: http://tdr.lib.ntu.edu.tw/jspui/handle/123456789/91766 
 
 Abstract
 
